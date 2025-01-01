@@ -10,7 +10,7 @@ This is a simple Snake Game built using Java and Swing. The game involves contro
 
 ## How to Play
 1. Run the `SnakeGame` class to start the game.
-2. Use the arrow keys to control the snake:
+2. Use the arrow keys to control the snake :
    - **Arrow Up**: Move up
    - **Arrow Down**: Move down
    - **Arrow Left**: Move left
@@ -28,7 +28,7 @@ This is a simple Snake Game built using Java and Swing. The game involves contro
 - `SnakeGame.java`: Main file containing the game logic and rendering.
 
 ## Customization
-You can adjust the following constants in the code to customize the game:
+You can adjust the following constants in the code to customize the game :
 - **`SCREEN_WIDTH`** and **`SCREEN_HEIGHT`**: Adjust the screen dimensions.
 - **`UNIT_SIZE`**: Change the size of each snake segment and apple.
 - **`DELAY`**: Adjust the speed of the snake.
